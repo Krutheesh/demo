@@ -1,0 +1,3 @@
+git and github demo
+git is a version contril system
+github is a place where the file are hosted
